@@ -121,4 +121,6 @@ Hello, I'm Shiyi Liu, but feel free to call me Andy for convenience. Currently, 
 
 I'm deeply interested in AI-related architectures, including GPU and compute-in-memory architectures.
 
+_I am still building this website, so the following contents may come from the template_
+
 {style="text-align: justify;"}
