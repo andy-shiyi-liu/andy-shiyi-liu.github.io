@@ -172,7 +172,7 @@ sections:
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        To see all of my publications, [click here](./publication/).
+        To see all of my publications, [click here](./publication/) or go to [google scholar](https://scholar.google.com/citations?user=vUIU2yIAAAAJ).
         {{% /callout %}}
       filters:
         folders:
