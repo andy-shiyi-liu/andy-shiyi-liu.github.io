@@ -172,12 +172,12 @@ sections:
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        To see all of my publications, [click here](./publication/).
         {{% /callout %}}
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
@@ -202,7 +202,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Feel free to contact me if you are interested!
+        Feel free to contact me!
       # Contact (add or remove contact options as necessary)
       email: Andy.Shiyi.Liu@outlook.com
       # phone: 888 888 88 88
