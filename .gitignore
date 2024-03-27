@@ -12,3 +12,4 @@ go.sum
 # Unuseful files
 *.DS_Store
 *._.DS_Store
+template/

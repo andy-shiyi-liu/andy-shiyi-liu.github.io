@@ -14,4 +14,5 @@ abstract: Content addressable memory (CAM) stands out as an efficient hardware s
 links:
 - name: URL
   url: http://arxiv.org/abs/2403.03442
+url_code: 'https://github.com/menggg22/CAMASim'
 ---
