@@ -90,7 +90,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: '#contact'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -120,7 +120,5 @@ highlight_name: true
 Hello, I'm Shiyi Liu, but feel free to call me Andy for convenience. Currently, I'm completing my undergraduate studies at Nanjing University and plans to start my doctoral journey under [Professor Yuan Xie](https://ece.hkust.edu.hk/yuanxie) at The Hong Kong University of Science and Technology. Presently, I'm collaborating with Professors [X. Sharon Hu](https://engineering.nd.edu/faculty/xiaobo-sharon-hu/) and [Yuan Du](https://ese.nju.edu.cn/dy/list.htm) on my undergraduate thesis.
 
 I'm deeply interested in AI-related architectures, including GPU and compute-in-memory architectures.
-
-_I am still building this website, so the following contents may come from the template_
 
 {style="text-align: justify;"}
