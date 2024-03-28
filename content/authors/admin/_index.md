@@ -25,7 +25,7 @@ organizations:
     url: https://www.nju.edu.cn/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lies in the broad area of AI related architecture and hardware.
+bio: Only passionate and persistance can make a success.
 
 # Interests to show in About widget
 interests:
@@ -119,6 +119,6 @@ highlight_name: true
 
 Hello, I'm Shiyi Liu, but feel free to call me Andy for convenience. Currently, I'm completing my undergraduate studies at Nanjing University and plans to start my doctoral journey under [Professor Yuan Xie](https://ece.hkust.edu.hk/yuanxie) at The Hong Kong University of Science and Technology. Presently, I'm collaborating with Professors [X. Sharon Hu](https://engineering.nd.edu/faculty/xiaobo-sharon-hu/) and [Yuan Du](https://ese.nju.edu.cn/dy/list.htm) on my undergraduate thesis.
 
-I'm deeply interested in AI-related architectures, including GPU and compute-in-memory architectures.
+I'm deeply interested in AI-related architectures and hardwares, such as GPU and compute-in-memory architectures and hardwares.
 
 {style="text-align: justify;"}
