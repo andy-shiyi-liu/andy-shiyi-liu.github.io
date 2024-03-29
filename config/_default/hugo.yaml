@@ -8,7 +8,8 @@ baseURL: 'https://andy-shiyi-liu.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
-############################
+#####################
+#######
 
 defaultContentLanguage: en
 hasCJKLanguage: false
