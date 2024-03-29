@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Shiyi's Homepage  # Website name
-baseURL: 'https://andy-shiyi-liu.github.io/Academic-Homepage/' # Website URL
+baseURL: 'https://andy-shiyi-liu.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
