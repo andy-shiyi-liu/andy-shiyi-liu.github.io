@@ -54,8 +54,8 @@ sections:
           company_url: ''
           company_logo: experience/Tsinghua_University_Logo
           location: Beijing, China
-          date_start: '2023-07-01'
-          date_end: '2023-09-01'
+          date_start: '2022-07-01'
+          date_end: '2022-09-01'
           description: |
               Under the supervise of [Prof. Bin Gao](https://www.ime.tsinghua.edu.cn/info/1015/1262.htm) and [Dr. Qingtian Zhanng](https://scholar.google.com/citations?user=7aAIE6MAAAAJ).
     design:
