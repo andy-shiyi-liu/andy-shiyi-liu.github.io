@@ -39,7 +39,16 @@ sections:
           date_start: '2023-08-16'
           date_end: '2023-12-15'
           description: |
-              Under the supervise of [Prof. X. Sharon Hu](https://engineering.nd.edu/faculty/xiaobo-sharon-hu/).
+              Under the supervise of [Prof. X. Sharon Hu](https://engineering.nd.edu/faculty/xiaobo-sharon-hu/) and [Mengyuan Li](https://menggg22.github.io/).
+        - title: Research Assistant
+          company: SEAL Lab, UCSB
+          company_url: ''
+          company_logo: experience/UC_Santa_Barbara_logo
+          location: Remote
+          date_start: '2023-05-01'
+          date_end: '2023-08-15'
+          description: |
+              Under the supervise of [Prof. Yuan Xie](https://ece.hkust.edu.hk/yuanxie) and [Guyue Huang](https://hgyhungry.github.io/).
         - title: Research Assistant
           company: Innovation Center for Future Chips, Tsinghua University
           company_url: ''
