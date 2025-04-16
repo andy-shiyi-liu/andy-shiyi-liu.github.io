@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Shiyi Liu
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Shiyi
+last_name: Liu
 
 # Status emoji
 status:
@@ -20,92 +20,99 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D. Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: The Hong Kong University of Science and Technology
+    url: https://hkust.edu.hk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+  - icon: envelope
+    url: 'mailto:shiyi.liu@connect.ust.hk'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/andy-shiyi-liu
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/shiyi-liu-7206b5274/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=vUIU2yIAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0008-2928-7726
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Architecture
+  - ML for Architecture Design
+  - Hardware-Software Co-Design
+  - Memory-Centric Computing
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - area: Ph.D. in Electronic and Computer Engineering
+    institution: The Hong Kong University of Science and Technology
+    date_start: 2024-09-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    # summary: 
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: Exchange Student
+    institution: University of Notre Dame
+    date_start: 2023-08-16
+    date_end: 2023-12-15
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.923/4.000
+  - area: B.E. in VLSI Design & System Integration
+    institution: Nanjing University
+    date_start: 2020-09-01
+    date_end: 2024-07-01
+    summary: |
+      GPA: 4.62/5.00 \
+      Outstanding Undergraduate Graduate of Nanjing University
+work:
+  - position: Hardware Development Internship
+    company_name: SiOrigin
+    company_url: ''
+    company_logo: experience/SiOrigin
+    date_start: 2024-06-10
+    date_end: 2024-08-09
+    location: Shanghai, China
+    summary: |2-
+      Responsible for evaluating the performance of the SiOrigin's AI accelerator and proposing optimization strategies.
+
+      Mentor: Dr. Xiaowei Jiang
+  - position: Research Assistant
+    company_name: University of Notre Dame
+    company_url: ''
+    company_logo: experience/University_of_Notre_Dame_seal
+    location: Notre Dame, IN, USA
+    date_start: 2023-08-16
+    date_end: 2023-12-15
+    summary: |2-
+      Under the supervise of <a href="https://engineering.nd.edu/faculty/xiaobo-sharon-hu/">Prof. X. Sharon Hu</a> and <a href="https://menggg22.github.io/">Dr. Mengyuan Li</a>.
+  - position: Research Assistant
+    company_name: SEAL Lab, UCSB
+    company_url: ''
+    company_logo: experience/UC_Santa_Barbara_logo
+    location: Remote
+    date_start: 2023-05-01
+    date_end: 2023-08-15
+    summary: |2-
+      Under the supervise of <a href="https://ece.hkust.edu.hk/yuanxie">Prof. Yuan Xie</a> and <a href="https://hgyhungry.github.io/">Dr. Guyue Huang</a>.
+  - position: Research Assistant
+    company_name: Innovation Center for Future Chips, Tsinghua University
+    company_url: ''
+    company_logo: experience/Tsinghua_University_Logo
+    location: Beijing, China
+    date_start: 2022-07-01
+    date_end: 2022-09-01
+    summary: |2-
+      Under the supervise of <a href="https://www.ime.tsinghua.edu.cn/info/1015/1262.htm">Prof. Bin Gao</a> and <a href="https://scholar.google.com/citations?user=7aAIE6MAAAAJ">Dr. Qingtian Zhang</a>.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -128,26 +135,28 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Reading
         description: ''
         percent: 100
-        icon: cat
+        icon: hobbies/book
       - name: Photography
         description: ''
         percent: 80
         icon: camera
+      - name: Flute
+        description: ''
+        percent: 80
+        icon: hobbies/flute
+      - name: Cat
+        description: ''
+        percent: 100
+        icon: cat
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Chinese
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +192,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shiyi Liu is a Ph.D. student at the Hong Kong University of Science and Technology, specializing in 3D/chiplet architecture design and machine learning for architectural innovation. His research focuses on integrating advanced fabrication processes and cutting-edge machine learning techniques to develop memory-centric computing systems. Prior to his doctoral studies, he was an exchange student at the University of Notre Dame and earned his B.E. in Electronic Engineering from Nanjing University, China.
