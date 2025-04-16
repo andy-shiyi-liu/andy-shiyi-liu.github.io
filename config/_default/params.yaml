@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Shiyi's Website"
+      text: "Shiyi's Homepage"
 
 # Site footer
 footer:
